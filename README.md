@@ -1,4 +1,4 @@
-# Quick Pinger // Cyberpunk Enterprise Edition
+# Quick Pinger
 
 **Quick Pinger** to nowoczesne, mobilne narzędzie diagnostyczne napisane w języku **Java** dla systemu Android. Aplikacja służy do badania struktury, stabilności oraz opóźnień sieci lokalnych i globalnych w czasie rzeczywistym. 
 
